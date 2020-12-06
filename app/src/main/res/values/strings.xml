@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">finalTest_19173069</string>
+    <string name="http_www_kobis_or_kr_kobisopenapi_webservice_rest_boxoffice_searchdailyboxofficelist_json_key_097273c716d818a8016519ef102e5d57_amp_targetdt_20200101"><![CDATA[http://www.kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOfficeList.json? key=097273c716d818a8016519ef102e5d57&targetDt=20200101]]></string>
+</resources>
